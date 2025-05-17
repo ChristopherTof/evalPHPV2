@@ -1,5 +1,5 @@
 <?php
-class playerController extends AbstractController
+class PlayerController extends AbstractController
 {
 
     private ?ViewPLayer $player;
